@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DpLesson</string>
+    <string name="type_your_name">type your name</string>
+    <string name="click_me">Click me</string>
+</resources>
